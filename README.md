@@ -18,7 +18,7 @@ Como parte de una campaña de ayudar a la comunidad, tu empresa está apoyando a
 
 ## Prueba de Actions
 
-Revisando y probando el Reto 05
+Revisando y probando el Reto 05.
 
 ## Retos
 Puedes iniciar por [acá](https://whatthehack-cf.github.io/WhatTheHack_retos/DevOps-GitHub/)
